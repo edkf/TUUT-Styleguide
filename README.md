@@ -13,20 +13,20 @@ A Style Guide is a set of standards to ensure a consistent design and identity. 
 2. Breakpoints
 3. Colors
 4. Typography
-..1. Headings
-..2. Paragraphs
-..3. Blockquotes
-..4. Unordered Lists
-..5. Ordered Lists
-..6. Links
+ 1. Headings
+ 2. Paragraphs
+ 3. Blockquotes
+ 4. Unordered Lists
+ 5. Ordered Lists
+ 6. Links
 5. Tables
 6. Forms
 7. Buttons
 8. Icons
 9. Other Components
-..1. Navigation
-..2. Accordion
-..3. Modal
-..4. Tabs
-..5. Pagination
-..6. etc
+ 1. Navigation
+ 2. Accordion
+ 3. Modal
+ 4. Tabs
+ 5. Pagination
+ 6. etc
