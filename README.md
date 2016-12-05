@@ -3,8 +3,6 @@
 
 ![Under Development](https://img.shields.io/badge/under-development-orange.svg)
 
----
-
 A Style Guide is a set of standards to ensure a consistent design and identity. Additionally, from a development point of view it serves to improve the speed and ease of code deployment.
 
 ## Table of Contents
